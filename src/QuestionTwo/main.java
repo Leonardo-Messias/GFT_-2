@@ -47,11 +47,6 @@ public class main {
                     pessoa.imc = pessoa.peso / pessoa.altura;
                     System.out.println("Seu IMC e: " + pessoa.imc);
                     break;
-//                case 3:
-//                    System.out.print("\nAté logo!");
-//                    imp.close();
-//                    break;
-
                 default:
                     System.out.println("\nOpcao invalida !!!");
                     System.out.println("\n!!Escolha uma opcao valida!!");

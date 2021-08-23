@@ -5,6 +5,6 @@ class Colaborador {
     String universidade;
     String colegio;
     Integer matricula;
-    Boolean ensbasic;
-    Boolean enssup;
+    Integer ensbasic;
+    Integer enssup;
 }

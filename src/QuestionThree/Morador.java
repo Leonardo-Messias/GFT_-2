@@ -1,4 +1,4 @@
-package QuestionThre;
+package QuestionThree;
 
 public class Morador {
     String nome;
