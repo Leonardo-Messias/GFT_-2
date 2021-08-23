@@ -17,7 +17,7 @@ public class main  {
             System.out.println("Possui cachorro na residencia?\n 1=sim ou 2=nao");
             morador.dog = imp.nextInt();
         //}
-        if(morador.dog ==1){
+       if(morador.dog ==1){
             System.out.println("!!Entregamos a correspondencia!!");
         }else{
             System.out.println("!!Nao entregamos a correspondencia");
