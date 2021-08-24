@@ -1,9 +1,8 @@
 package QuestionTwo;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
 
         Pessoa pessoa = new Pessoa();

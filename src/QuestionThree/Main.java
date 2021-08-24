@@ -2,7 +2,7 @@ package QuestionThree;
 
 import java.util.Scanner;
 
-public class main  {
+public class Main {
     public static void main(String[] args) {
         Morador morador = new Morador();
         int cont=0;

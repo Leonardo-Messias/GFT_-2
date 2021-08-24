@@ -2,7 +2,7 @@ package QuestionFour;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
     Produto produto = new Produto();
         Scanner imp = new Scanner(System.in);

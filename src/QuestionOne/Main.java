@@ -2,7 +2,7 @@ package QuestionOne;
 
 import java.util.Scanner;
 
-public class main  extends Colaborador {
+public class Main extends Colaborador {
     public static void main(String[] args) {
         Colaborador colaborador = new Colaborador();
         Scanner imp = new Scanner(System.in);
@@ -19,6 +19,7 @@ public class main  extends Colaborador {
 
         }else{
             System.out.println(colaborador.matricula);
+
         }
         System.out.println("Ensino superior completo? \n 1=sim ou 2=nao");
         colaborador.enssup = imp.nextInt();
