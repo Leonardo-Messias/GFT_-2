@@ -29,19 +29,19 @@ public class Morador {
         this.dog = dog;
     }
 
-    public Integer getTelefone() {
+    private Integer getTelefone() {
         return telefone;
     }
 
-    public void setTelefone(Integer telefone) {
+    private void setTelefone(Integer telefone) {
         this.telefone = telefone;
     }
 
-    public Integer getNumero() {
+    private Integer getNumero() {
         return numero;
     }
 
-    public void setNumero(Integer numero) {
+    private void setNumero(Integer numero) {
         this.numero = numero;
     }
     void status(){
