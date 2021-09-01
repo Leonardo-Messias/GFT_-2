@@ -5,6 +5,9 @@ public class Main {
         Morador morador = new Morador("Leonardo Messias",true,997446522,302);
         morador.status();
         morador.entrega();
+        Morador morador1 = new Morador("Gustavo Messias",false,49856292,501);
+        morador1.status();
+        morador1.entrega();
 
 
     }

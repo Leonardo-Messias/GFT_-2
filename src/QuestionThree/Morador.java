@@ -45,7 +45,7 @@ public class Morador {
         this.numero = numero;
     }
     void status(){
-        System.out.println("Seu nome: "+this.getNome());
+        System.out.println("\nSeu nome: "+this.getNome());
         System.out.println("Numero da residencia: "+this.getNumero());
         System.out.println("Telefone: "+this.getTelefone());
     }
