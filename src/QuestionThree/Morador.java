@@ -56,5 +56,6 @@ public class Morador {
             System.out.println("Nao entregamos em sua residencia");
         }
     }
-}
+
+    }
 
